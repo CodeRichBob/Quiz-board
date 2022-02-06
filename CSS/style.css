@@ -85,3 +85,14 @@ form {
   line-height: 25px;
   font-size: 20px;
 }
+.btn {
+  padding: 20px;
+}
+.btn input {
+  background-color: #008181;
+  color: white;
+  padding: 10px 15px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+}
