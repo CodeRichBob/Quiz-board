@@ -25,6 +25,9 @@ header h1 span {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding-bottom: 30px;
+  height: 50vh;
+  padding-bottom: 20px;
 }
 .guidelines h2 {
   margin-top: 0px;
@@ -37,7 +40,7 @@ header h1 span {
 }
 .rules {
   font-family: sans-serif;
-  height: 50vh;
+
   line-height: 50px;
   font-weight: 600;
 }
@@ -47,14 +50,22 @@ header h1 span {
 
 a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 #down {
-  margin-top: 100%;
+  margin-top: 40px;
   padding-bottom: 25%;
 }
 .ready {
   align-items: center;
   text-align: center;
+  margin-top: -3px;
+}
+.cont {
+  background-color: #008181;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
 }
