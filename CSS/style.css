@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 header {
   display: flex;
   flex-direction: row;
@@ -15,4 +20,24 @@ header h1 {
 header h1 span {
   border: 1px solid white;
   padding: 8px;
+}
+.guidelines {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.guidelines h2 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #008181;
+  padding: 10px;
+  box-shadow: 5px 3px 8px;
+  color: #008181;
+  font-size: 30px;
+}
+.rules {
+  font-family: sans-serif;
+  height: 50vh;
+  line-height: 50px;
+  font-weight: 600;
 }
