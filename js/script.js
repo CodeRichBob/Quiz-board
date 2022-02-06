@@ -8,4 +8,11 @@ function mySubmitTest(){
    var answer5 = document.Questions.question5.value;
 
    if (answer1 == ".js"){result+=20};
+   if (answer2 == "Script tag"){result+=20};
+   if (answer3 == "Both A & B"){result+=20};
+   if (answer4 == "Array"){result+=20};
+   if (answer5 == "Method"){result+=20};
+   Questions.style.display = 'none';
+
+   
 }
