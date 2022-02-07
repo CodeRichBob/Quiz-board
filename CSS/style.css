@@ -103,3 +103,6 @@ footer {
   padding-top: 15px;
   color: rgb(1, 27, 59);
 }
+.btn input:hover {
+  background-color: green;
+}
