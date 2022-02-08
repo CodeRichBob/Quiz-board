@@ -27,6 +27,6 @@ function mySubmitBtn (){
      }else if (result == 20){
       score.textContent = "Your Score is 20%. This is below average!";
      }else if (result == 0){
-      score.textContent = "Your Score is 0. Kindly retake the test" ;
+      score.textContent = "Your Score is 0. Kindly take time to go through your notes" ;
      }
 }
