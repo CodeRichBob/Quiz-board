@@ -106,3 +106,9 @@ footer {
 .btn input:hover {
   background-color: green;
 }
+#score {
+  text-align: center;
+  font-size: 30px;
+  color: #008181;
+  margin-bottom: 300px;
+}
